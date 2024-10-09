@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Rubab! 👋<br><br>🔭 I’m currently working on web development projects and enhancing my portfolio with creative, responsive designs. I’m also completing my remote internship at CodeAlpha, where I’m building various JavaScript-based applications.<br><br>👯 I’m looking to collaborate on full-stack MERN projects, and I’m open to working on AI, hacking, and cybersecurity-themed websites.<br><br>🤝 I’m looking for help with building a diverse portfolio that showcases innovative web development projects and improving my backend skills.<br><br>🌱 I’m currently learning JavaScript, React, and MongoDB, and focusing on becoming a full-stack developer while exploring UI/UX design.<br><br>💬 Ask me about HTML, CSS, web design principles, and how to kickstart your web development journey using mobile-first tools and approaches.<br><br>⚡ Fun fact: I’m a graphic designer and have successfully completed several projects, ranging from brand building to web design!
+Hi there, I’m Rubab! 👋<br><br>🔭 I’m currently working on web development projects and enhancing my portfolio with creative, responsive designs. I’m also completing my remote internship at CodeAlpha, where I’m building various JavaScript-based applications.<br><br>👯 I’m looking to collaborate on full-stack MERN projects, and I’m open to working on bussiness,  branding and AI integrated websites.<br><br>🤝 I’m looking for help with building a diverse portfolio that showcases innovative web development projects and improving my backend skills.<br><br>🌱 I’m currently learning JavaScript, React, and MongoDB, and focusing on becoming a full-stack developer while exploring UI/UX design.<br><br>💬 Ask me about HTML, CSS, web design principles, and how to kickstart your web development journey using mobile-first tools and approaches.<br><br>⚡ Fun fact: I’m a graphic designer and have successfully completed several projects, ranging from brand building to web design!
 
 
 ## 🌐 Socials:
@@ -20,16 +20,3 @@ Hi there, I’m Rubab! 👋<br><br>🔭 I’m currently working on web developme
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RubabAnwar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 👋 Hi, I’m @RubabAnwar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RubabAnwar/RubabAnwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
